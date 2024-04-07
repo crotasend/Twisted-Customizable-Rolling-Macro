@@ -20,4 +20,5 @@
 3. VTP 6 and above are not in reference_images. This means if you get a VTP 6 server, it will automatically TRY to reroll it. If you are trying for one, i would stop the macro if you see one, and then take a screenshot of the VTP_6 using snipping tool while still having roblox on the right half of your screen, and then add it to "reference_images." **DM ME ANY NEW REFERENCE IMAGES IF YOU CAN, WOULD BE INCREDIBLY APPRECIATED.*
 
 # Demonstration:
-https://img.youtube.com/vi/8RjLAXOzGL8/maxresdefault.jpg
+[youtu.be/8RjLAXOzGL8](https://youtu.be/8RjLAXOzGL8)
+[![Demonstration](https://img.youtube.com/vi/8RjLAXOzGL8/maxresdefault.jpg)](https://youtu.be/8RjLAXOzGL8)
