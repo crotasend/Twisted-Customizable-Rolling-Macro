@@ -18,3 +18,6 @@
 1. One user has reported the bot rerolling a 4 VTP server when minimum was set to 4 on *1080p*. 1440p has been tested extensively and should work, however 1080p is much less confident.
 2. If roblox decides not to open upon clicking join, or opens then closes, you **may** have to manually click to join again. I've tried fixing / finding a workaround, but i don't think i can.
 3. VTP 6 and above are not in reference_images. This means if you get a VTP 6 server, it will automatically TRY to reroll it. If you are trying for one, i would stop the macro if you see one, and then take a screenshot of the VTP_6 using snipping tool while still having roblox on the right half of your screen, and then add it to "reference_images." **DM ME ANY NEW REFERENCE IMAGES IF YOU CAN, WOULD BE INCREDIBLY APPRECIATED.*
+
+# Demonstration:
+https://youtu.be/8RjLAXOzGL8
