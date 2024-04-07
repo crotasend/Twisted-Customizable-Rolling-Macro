@@ -11,6 +11,7 @@
 7. The script will now automatically run entirely, moving your mouse is **NOT reccomended** unless you are confirming / denying keeping a server.
 8. **MAKE SURE THAT YOUR CHAT IS *HIDDEN* UPON LAUNCHING ROBLOX, AND THAT YOUR TASKBAR IS *DISABLED***
 9. After your first launch, a settings.ini file will be saved. Do not be scared, it is just to save your minimum VTP setting. It is not a virus.
+10. Will **NOT** work with custom roblox loader fonts, etc. If you want to use custom fonts, you will have to manually get reference images, and possibly re-find some positions.
 
 # ***KNOWN ISSUES***
 
