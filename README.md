@@ -9,3 +9,4 @@
 5. Line up the "Join" button on which ever private server you wish to use to wherever it moved your mouse to.
 6. Either wait ~5 seconds for it to automatically re-press join, or press it.
 7. The script will now automatically run entirely, moving your mouse is **NOT reccomended** unless you are confirming / denying keeping a server.
+8. **MAKE SURE THAT YOUR CHAT IS *HIDDEN* UPON LAUNCHING ROBLOX, AND THAT YOUR TASKBAR IS *DISABLED***
